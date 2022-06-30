@@ -12,6 +12,6 @@
 <p>This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.</p>
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
-chmod u+x 13-insert_number.c && git add --chmod=+x 13-insert_number.c && git commit -m 'task 13 13-insert_number.c' && git push
+chmod u+x 101-remove_char_at.py   && git add --chmod=+x 101-remove_char_at.py   && git commit -m 'advanced task 101 101-remove_char_at.py  ' && git push
 
 chmod u+x 4-print_hexa.py && git add --all && git commit -m 'task 04 4-print_hexa.py' && git push
