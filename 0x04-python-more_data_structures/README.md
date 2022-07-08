@@ -6,7 +6,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 12-roman_to_int.py && git add --chmod=+x 12-roman_to_int.py && git commit -m 'Task 12  a function <code>def roman_to_int(roman_string):</code> that converts a <code>Roman numeral</code> to an integer. 12-roman_to_int.py' && git push
+chmod u+x 12-roman_to_int.py && git add --chmod=+x 12-roman_to_int.py && git commit -m 'Advanced Task 100  a function that returns the weighted average of all integers tuple  <code>(<score>, <weight>)</code> that converts a <code>Roman numeral</code> to an integer. 12-roman_to_int.py' && git push
 
 
 chmod u+x 100-print_python_list_info.c  && git add --chmod=+x 100-print_python_list_info.c  && git commit -m 'Advanced Task 14   a C function that prints some basic info about Python lists. 100-print_python_list_info.c ' && git push
