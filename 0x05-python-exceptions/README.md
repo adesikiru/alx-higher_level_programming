@@ -3,7 +3,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 5-raise_exception.py && git add --chmod=+x 5-raise_exception.py && git commit -m 'Task 05 a function that raises a type exception. 5-raise_exception.py' && git push
+chmod u+x 5-raise_exception.py && git add --chmod=+x 5-raise_exception.py && git commit -m 'Task 05 a function that raises a name exception with a message. 5-raise_exception.py' && git push
 
 
 chmod u+x 100-print_python_list_info.c  && git add --chmod=+x 100-print_python_list_info.c  && git commit -m 'Advanced Task 14 a C function that prints some basic info about Python lists. 100-print_python_list_info.c ' && git push
