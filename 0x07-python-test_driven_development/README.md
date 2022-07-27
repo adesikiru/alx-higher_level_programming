@@ -5,7 +5,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 chmod u+x 2-matrix_divided.py && git add --chmod=+x 2-matrix_divided.py && git commit -m 'Task 01 a function that divides all elements of a matrix. 2-matrix_divided.py' && git push
 
 
-chmod u+x 0-add_integer.txt && git add --chmod=+x 0-add_integer.txt && git commit -m 'Task 00 a function that divides all elements of a matrix. 2-matrix_divided.py' && git push
+chmod u+x 0-add_integer.txt && git add --chmod=+x 0-add_integer.txt && git commit -m 'Task 00 textfile2-matrix_divided.py' && git push
 
 
 
