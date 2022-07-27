@@ -5,7 +5,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 chmod u+x 3-say_my_name.py && git add --chmod=+x 3-say_my_name.py && git commit -m 'Task 02 a function that prints My name is <first name> <last name> 3-say_my_name.py' && git push
 
 
-chmod u+x 2-matrix_divided.txt && git add --chmod=+x 2-matrix_divided.txt && git commit -m 'Task 01 textfile 2-matrix_divided.txt' && git push
+chmod u+x 3-say_my_name.txt && git add --chmod=+x 3-say_my_name.txt && git commit -m 'Task 01 textfile 3-say_my_name.txt' && git push
 
 
 
