@@ -2,10 +2,10 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 6-max_integer_test.py && git add --chmod=+x 6-max_integer_test.py && git commit -m 'Task 05  6-max_integer_test.py' && git push
+chmod u+x 100-matrix_mul.py && git add --chmod=+x 100-matrix_mul.py && git commit -m 'Task 05  100-matrix_mul.py' && git push
 
 
-chmod u+x 5-text_indentation.txt && git add --chmod=+x 5-text_indentation.txt && git commit -m 'Task 04 textfile 5-text_indentation.txt' && git push
+chmod u+x 100-matrix_mul.txt && git add --chmod=+x 100-matrix_mul.txt && git commit -m 'Task 04 textfile 100-matrix_mul.txt' && git push
 
 
 
