@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 5-text_indentation.py && git add --chmod=+x 5-text_indentation.py && git commit -m 'Task 04 a function that prints a square with the character #. 5-text_indentation.py' && git push
+chmod u+x 5-text_indentation.py && git add --chmod=+x 5-text_indentation.py && git commit -m 'Task 04 a function that prints a text with 2 new lines after each of these characters: ., ? and : 5-text_indentation.py' && git push
 
 
 chmod u+x 5-text_indentation.txt && git add --chmod=+x 5-text_indentation.txt && git commit -m 'Task 04 textfile 5-text_indentation.txt' && git push
