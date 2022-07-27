@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 2-matrix_divided.py && git add --chmod=+x 2-matrix_divided.py && git commit -m 'Task 01 a function that divides all elements of a matrix. 2-matrix_divided.py' && git push
+chmod u+x 2-matrix_divided.py && git add --chmod=+x 2-matrix_divided.py && git commit -m 'Task 01 a function that prints My name is <first name> <last name> 2-matrix_divided.py' && git push
 
 
 chmod u+x 2-matrix_divided.txt && git add --chmod=+x 2-matrix_divided.txt && git commit -m 'Task 01 textfile 2-matrix_divided.txt' && git push
