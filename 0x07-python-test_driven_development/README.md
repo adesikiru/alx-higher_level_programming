@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 0-add_integer.py && git add --chmod=+x 0-add_integer.py && git commit -m 'Task 00  a class Square that defines a square by: (based on 5-square.py) 0-add_integer.py' && git push
+chmod u+x 0-add_integer.py && git add --chmod=+x 0-add_integer.py && git commit -m 'Task 00  a function that adds 2 integers. 0-add_integer.py' && git push
 
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
