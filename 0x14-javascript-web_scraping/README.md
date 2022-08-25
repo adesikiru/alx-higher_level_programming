@@ -11,7 +11,7 @@ chmod u+x 100-starwars_characters.js && git add --chmod=+x 100-starwars_characte
 
 chmod u+x 6-completed_tasks.js && git add --chmod=+x 6-completed_tasks.js && git commit -m 'Task 06 6-completed_tasks.js' && git push
 
-touch 6-completed_tasks.js && git add . && git commit -m 6-completed_tasks.js
+touch 100-starwars_characters.js && git add . && git commit -m 100-starwars_characters.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
