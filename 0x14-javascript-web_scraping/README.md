@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. print_dlistint.c' && git push
 
-chmod u+x 100-starwars_characters.js && git add --chmod=+x 100-starwars_characters.js && git commit -m 'Advanced Task 100 Time for an interview! 100-starwars_characters.js' && git push
+chmod u+x 100-starwars_characters.js && git add --chmod=+x 100-starwars_characters.js && git commit -m 'Advanced Task 100 100-starwars_characters.js' && git push
 
 chmod u+x 6-completed_tasks.js && git add --chmod=+x 6-completed_tasks.js && git commit -m 'Task 06 6-completed_tasks.js' && git push
 
