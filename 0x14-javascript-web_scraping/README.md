@@ -9,7 +9,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 100-github_commits.py && git add --chmod=+x 100-github_commits.py && git commit -m 'Advanced Task 100 Time for an interview! 100-github_commits.py' && git push
 
-chmod u+x 5-request_store.js && git add --chmod=+x 5-request_store.js && git commit -m 'Task 04 5-request_store.js' && git push
+chmod u+x 5-request_store.js && git add --chmod=+x 5-request_store.js && git commit -m 'Task 05 5-request_store.js' && git push
 
 touch 5-request_store.js && git add . && git commit -m 5-request_store.js
 
