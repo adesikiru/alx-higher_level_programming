@@ -4,9 +4,9 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 15-groups.sql && git add --chmod=+x 15-groups.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 15-groups.sql' && git push
+chmod u+x 16-no_link.sql && git add --chmod=+x 16-no_link.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 16-no_link.sql' && git push
 
-touch 15-groups.sql && git commit -m 15-groups.sql
+touch 16-no_link.sql && git commit -m 16-no_link.sql
 
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
