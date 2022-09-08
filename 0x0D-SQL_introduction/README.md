@@ -4,7 +4,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 1-create_database_if_missing.sql && git add --chmod=+x 1-create_database_if_missing.sql && git commit -m 'Task 01-- Creates the database hbtn_0c_0 in my MySQL server. 1-create_database_if_missing.sql'
+chmod u+x 1-create_database_if_missing.sql && git add --chmod=+x 1-create_database_if_missing.sql && git commit -m 'Task 01 -- Creates the database hbtn_0c_0 in my MySQL server. 1-create_database_if_missing.sql'
 
  && git push
 
