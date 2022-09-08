@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 14-my_genres.sql && git add --chmod=+x 14-my_genres.sql && git commit -m 'Task 14 -- uses the hbtn_0d_tvshows database to lists all genres of the show Dexter 14-my_genres.sql'
+chmod u+x 14-my_genres.sql && git add --chmod=+x 14-my_genres.sql && git commit -m 'Task 14 -- lists all Comedy shows in the database hbtn_0d_tvshows 14-my_genres.sql'
 
  && git push
 
