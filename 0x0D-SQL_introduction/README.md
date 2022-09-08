@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 100-move_to_utf8.sql && git add --chmod=+x 100-move_to_utf8.sql && git commit -m 'Advanced Task 100 -- Converts the entire database hbtn_0c_0 to UTF8. 100-move_to_utf8.sql ' && git push
+chmod u+x 100-move_to_utf8.sql && git add --chmod=+x 100-move_to_utf8.sql && git commit -m 'Advanced Task 100 -- Displays the average temperature (in Fahrenheit) by city ordered by descending temperature. 100-move_to_utf8.sql ' && git push
 
 chmod u+x 16-no_link.sql && git add --chmod=+x 16-no_link.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 16-no_link.sql' && git push
 
