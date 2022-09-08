@@ -8,13 +8,6 @@ chmod u+x 16-no_link.sql && git add --chmod=+x 16-no_link.sql && git commit -m '
 
 touch 16-no_link.sql && git add . && commit -m 16-no_link.sql
 
--- Lists all records of the table second_table having a name value in my MySQL server.
--- Records are ordered by descending score.
-SELECT `score`, `name`
-FROM `second_table`
-WHERE `name` != ""
-ORDER BY `score` DESC
-
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
