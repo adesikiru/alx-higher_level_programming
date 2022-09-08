@@ -4,7 +4,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 12-no_cheating.sql && git add --chmod=+x 12-no_cheating.sql && git commit -m 'Task 13 -- Removes all records with a score <= 5 in the table second_table in my MySQL server. 12-no_cheating.sql'
+chmod u+x 13-change_class.sql && git add --chmod=+x 13-change_class.sql && git commit -m 'Task 13 -- Removes all records with a score <= 5 in the table second_table in my MySQL server. 13-change_class.sql'
 
 && git push
 
