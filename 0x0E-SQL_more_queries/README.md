@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 8-cities_of_california_subquery.sql && git add --chmod=+x 8-cities_of_california_subquery.sql && git commit -m 'Task 08 -- lists all the cities of California that can be found in the database hbtn_0d_usa 8-cities_of_california_subquery.sql'
+chmod u+x 8-cities_of_california_subquery.sql && git add --chmod=+x 8-cities_of_california_subquery.sql && git commit -m 'Task 08 -- lists all cities contained in the database hbtn_0d_usa 8-cities_of_california_subquery.sql'
 
  && git push
 
