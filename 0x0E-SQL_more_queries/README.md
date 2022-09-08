@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 1-create_user.sql && git add --chmod=+x 1-create_user.sql && git commit -m 'Task 01 -- creates the database hbtn_0d_2 and the user user_0d_2 1-create_user.sql'
+chmod u+x 1-create_user.sql && git add --chmod=+x 1-create_user.sql && git commit -m 'Task 02 -- creates the database hbtn_0d_2 and the user user_0d_2 1-create_user.sql'
 
  && git push
 
