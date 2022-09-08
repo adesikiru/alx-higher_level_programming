@@ -7,11 +7,11 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 14-my_genres.sql && git add --chmod=+x 14-my_genres.sql && git commit -m 'Task 14 -- lists all Comedy shows in the database hbtn_0d_tvshows 14-my_genres.sql'
+chmod u+x 15-comedy_only.sql && git add --chmod=+x 15-comedy_only.sql && git commit -m 'Task 15 -- lists all Comedy shows in the database hbtn_0d_tvshows 15-comedy_only.sql'
 
  && git push
 
-touch 14-my_genres.sql && git add . && git commit -m 14-my_genres.sql
+touch 15-comedy_only.sql && git add . && git commit -m 15-comedy_only.sql
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
