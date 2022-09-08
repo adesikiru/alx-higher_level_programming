@@ -4,14 +4,8 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 0-list_databases.sql && git add --chmod=+x 0-list_databases.sql && git commit -m 'Task 00 textfile 0-list_databases.sql' && git push
-
-
-
-
-
-
-
+chmod u+x 0-list_databases.sql && git add --chmod=+x 0-list_databases.sql && git commit -m 'Task 00 -- Lists all databases of my MySQL server.
+0-list_databases.sql' && git push
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
