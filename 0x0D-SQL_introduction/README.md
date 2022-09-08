@@ -6,7 +6,7 @@ chmod u+x 100-move_to_utf8.sql && git add --chmod=+x 100-move_to_utf8.sql && git
 
 chmod u+x 16-no_link.sql && git add --chmod=+x 16-no_link.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 16-no_link.sql' && git push
 
-touch 16-no_link.sql && git add . && commit -m 100-move_to_utf8.sql
+touch 100-move_to_utf8.sql && git add . && commit -m 100-move_to_utf8.sql
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
