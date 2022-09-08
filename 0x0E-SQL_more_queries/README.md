@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 0-privileges.sql && git add --chmod=+x 0-privileges.sql && git commit -m 'Task 00 -- Lists all privileges of the MySQL users user_0d_1 and user_0d_2 0-privileges.sql'
+chmod u+x 0-privileges.sql && git add --chmod=+x 0-privileges.sql && git commit -m 'Task 00 -- creates the MySQL server user user_0d_1 and grant all priviledges 0-privileges.sql'
 
  && git push
 
