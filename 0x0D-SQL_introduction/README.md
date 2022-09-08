@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 101-avg_temperatures.sql && git add --chmod=+x 101-avg_temperatures.sql && git commit -m 'Advanced Task 101 -- Displays the average temperature (in Fahrenheit) by city ordered by descending temperature. 101-avg_temperatures.sql ' && git push
+chmod u+x 101-avg_temperatures.sql && git add --chmod=+x 101-avg_temperatures.sql && git commit -m 'Advanced Task 101 -- Displays the 3 cities with the highest average temperatures between July and August. 101-avg_temperatures.sql ' && git push
 
 chmod u+x 16-no_link.sql && git add --chmod=+x 16-no_link.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 16-no_link.sql' && git push
 
