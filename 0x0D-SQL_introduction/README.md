@@ -4,7 +4,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 11-best_score.sql && git add --chmod=+x 11-best_score.sql && git commit -m 'Task 11 -- Updates the score of Bob to 10 in the table second_table in my MySQL server. 11-best_score.sql'
+chmod u+x 11-best_score.sql && git add --chmod=+x 11-best_score.sql && git commit -m 'Task 12 -- Updates the score of Bob to 10 in the table second_table in my MySQL server. 11-best_score.sql'
 
 && git push
 
