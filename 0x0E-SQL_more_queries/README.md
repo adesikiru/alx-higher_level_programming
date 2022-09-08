@@ -9,7 +9,8 @@ chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commi
 
 chmod u+x 0-privileges.sql && git add --chmod=+x 0-privileges.sql && git commit -m 'Task 16 -- Lists all records of the table second_table having a name value in my MySQL server. 0-privileges.sql' && git push
 
-touch 103-max_state.sql && git add . && git commit -m 103-max_state.sql
+touch 103-max_state.sql && git add . && git commit -m 0-privileges.sql
+
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
