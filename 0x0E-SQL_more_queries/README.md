@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 102 -- Displays the max temperature of each state, ordered by state name. 103-max_state.sql ' && git push
 
-chmod u+x 3-force_name.sql && git add --chmod=+x 3-force_name.sql && git commit -m 'Task 03 -- creates the table force_name on your MySQL server 3-force_name.sql'
+chmod u+x 3-force_name.sql && git add --chmod=+x 3-force_name.sql && git commit -m 'Task 03 -- creates the table id_not_null on your MySQL server 3-force_name.sql'
 
  && git push
 
