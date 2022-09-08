@@ -4,7 +4,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 15-groups.sql && git add --chmod=+x 15-groups.sql && git commit -m 'Task 15 -- Lists the number of records with the same score in the table second_table in my MySQL server. 15-groups.sql' && git push
+chmod u+x 15-groups.sql && git add --chmod=+x 15-groups.sql && git commit -m 'Task 15 -- Lists all records of the table second_table having a name value in my MySQL server. 15-groups.sql' && git push
 
 touch 15-groups.sql && git commit -m 15-groups.sql
 
