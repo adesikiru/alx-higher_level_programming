@@ -4,7 +4,8 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py && git commit -m 'Advanced Task 07 101-lazy_matrix_mul.py ' && git push
 
-chmod u+x 5-full_table.sql && git add --chmod=+x 5-full_table.sql && git commit -m 'Task 05 -- Prints the full description of the table first_table in my MySQL server. 5-full_table.sql'
+chmod u+x 5-full_table.sql && git add --chmod=+x 5-full_table.sql && git commit -m 'Task 05 -- Lists all rows of the table first_table in my MySQL server.
+ 5-full_table.sql'
 
 && git push
 
