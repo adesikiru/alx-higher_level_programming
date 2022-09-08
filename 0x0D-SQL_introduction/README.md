@@ -6,6 +6,8 @@ chmod u+x 101-lazy_matrix_mul.py && git add --chmod=+x 101-lazy_matrix_mul.py &&
 
 chmod u+x 15-groups.sql && git add --chmod=+x 15-groups.sql && git commit -m 'Task 15 -- Lists the number of records with the same score in the table second_table in my MySQL server. 15-groups.sql' && git push
 
+touch 15-groups.sql && git commit -m 15-groups.sql
+
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
