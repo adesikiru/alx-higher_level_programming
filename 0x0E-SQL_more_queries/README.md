@@ -11,7 +11,7 @@ chmod u+x 16-shows_by_genre.sql && git add --chmod=+x 16-shows_by_genre.sql && g
 
  && git push
 
-touch 100-not_my_genres.sql && git add . && git commit -m 16-shows_by_genre.sql
+touch 100-not_my_genres.sql && git add . && git commit -m 100-not_my_genres.sql
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
