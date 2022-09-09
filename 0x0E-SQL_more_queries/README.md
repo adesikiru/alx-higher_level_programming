@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 103-max_state.sql && git add --chmod=+x 103-max_state.sql && git commit -m 'Advanced Task 100 -- uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter 103-max_state.sql ' && git push
+chmod u+x 100-not_my_genres.sql && git add --chmod=+x 100-not_my_genres.sql && git commit -m 'Advanced Task 100 -- uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter 100-not_my_genres.sql' && git push
 
 chmod u+x 16-shows_by_genre.sql && git add --chmod=+x 16-shows_by_genre.sql && git commit -m 'Task 16 -- lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows 16-shows_by_genre.sql'
 
