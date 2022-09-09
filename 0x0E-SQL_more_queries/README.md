@@ -9,7 +9,7 @@ chmod u+x 103-rating_genres.sql && git add --chmod=+x 103-rating_genres.sql && g
 
  && git push
 
-chmod u+x 16-shows_by_genre.sql && git add --chmod=+x 16-shows_by_genre.sql && git commit -m 'Task 16 -- lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows 16-shows_by_genre.sql'
+chmod u+x 3-force_name.sql && git add --chmod=+x 3-force_name.sql && git commit -m 'Task 16 -- lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows 3-force_name.sql'
 
  && git push
 
