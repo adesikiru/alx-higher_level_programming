@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 101-not_a_comedy.sql && git add --chmod=+x 101-not_a_comedy.sql && git commit -m 'Advanced Task 102 -- lists all shows from hbtn_0d_tvshows_rate by their rating 101-not_a_comedy.sql'
+chmod u+x 102-rating_shows.sql && git add --chmod=+x 102-rating_shows.sql && git commit -m 'Advanced Task 102 -- lists all shows from hbtn_0d_tvshows_rate by their rating 102-rating_shows.sql'
 
  && git push
 
@@ -13,7 +13,7 @@ chmod u+x 16-shows_by_genre.sql && git add --chmod=+x 16-shows_by_genre.sql && g
 
  && git push
 
-touch 101-not_a_comedy.sql && git add . && git commit -m 101-not_a_comedy.sql
+touch 102-rating_shows.sql && git add . && git commit -m 102-rating_shows.sql
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
