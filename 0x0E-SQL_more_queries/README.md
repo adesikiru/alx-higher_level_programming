@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 102-rating_shows.sql && git add --chmod=+x 102-rating_shows.sql && git commit -m 'Advanced Task 102 -- lists all genres in the database hbtn_0d_tvshows_rate by their rating 102-rating_shows.sql'
+chmod u+x 102-rating_shows.sql && git add --chmod=+x 102-rating_shows.sql && git commit -m 'Advanced Task 103 -- lists all genres in the database hbtn_0d_tvshows_rate by their rating 102-rating_shows.sql'
 
  && git push
 
