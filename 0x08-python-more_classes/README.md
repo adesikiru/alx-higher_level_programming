@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'header file print_dlistint.c' && git push
 
-chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m 'Advanced Task 100 make -f 101-nqueens.py'
+chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m 'Advanced Task 101 make -f 101-nqueens.py'
 
 && git push
 
