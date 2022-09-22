@@ -9,7 +9,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 0-rectangle.py && git add --chmod=+x 0-rectangle.py && git commit -m 'Task 03 Scale up 0-rectangle.py'
+chmod u+x 0-rectangle.py && git add --chmod=+x 0-rectangle.py && git commit -m 'Task 00 Scale up 0-rectangle.py'
 && git push
 
 touch 0-rectangle.py && git add . && git commit -m 0-rectangle.py
