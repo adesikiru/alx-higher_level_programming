@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'header file print_dlistint.c' && git push
 
-chmod u+x 101-sorted.js && git add --chmod=+x 101-sorted.js && git commit -m 'Advanced Task 101 a script that imports an array and computes a new array. 101-sorted.js' && git push
+chmod u+x 101-sorted.js && git add --chmod=+x 101-sorted.js && git commit -m 'Advanced Task 101 a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence. 101-sorted.js' && git push
 
 chmod u+x 9-logme.js && git add --chmod=+x 9-logme.js && git commit -m 'Task 09 a function that prints the number of arguments already printed and the new argument value. 9-logme.js' && git push
 
