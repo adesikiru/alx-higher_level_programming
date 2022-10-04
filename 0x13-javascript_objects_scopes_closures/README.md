@@ -9,8 +9,7 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 && git push
 
-chmod u+x 2-rectangle.js && git add --chmod=+x 2-rectangle.js && git commit -m 'Task 02 a class Rectangle that defines a rectangle:
-2-rectangle.js' && git push
+chmod u+x 2-rectangle.js && git add --chmod=+x 2-rectangle.js && git commit -m 'Task 02 a class Rectangle that defines a rectangle: 2-rectangle.js' && git push
 
 touch 2-rectangle.js && git add . && git commit -m 2-rectangle.js
 
