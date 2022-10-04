@@ -11,7 +11,7 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 chmod u+x 0-rectangle.js && git add --chmod=+x 0-rectangle.js && git commit -m 'Task 00  an empty class Rectangle that defines a rectangle: 0-rectangle.js' && git push
 
-touch 101-nqueens.py && git add . && git commit -m 101-nqueens.py
+touch 0-rectangle.js && git add . && git commit -m 101-nqueens.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
