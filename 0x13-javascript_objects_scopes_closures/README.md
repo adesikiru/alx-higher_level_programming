@@ -9,7 +9,7 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 && git push
 
-chmod u+x 6-square.js && git add --chmod=+x 6-square.js && git commit -m 'Task 06 a class Square that defines a square and inherits from Square of 5-square.js: 6-square.js' && git push
+chmod u+x 6-square.js && git add --chmod=+x 6-square.js && git commit -m 'Task 06 a function that returns the number of occurrences in a list: 6-square.js' && git push
 
 touch 6-square.js && git add . && git commit -m 6-square.js
 
