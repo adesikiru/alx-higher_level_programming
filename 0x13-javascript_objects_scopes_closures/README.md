@@ -9,7 +9,7 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 && git push
 
-chmod u+x 7-occurrences.js && git add --chmod=+x 7-occurrences.js && git commit -m 'Task 07 a function that returns the number of occurrences in a list: 7-occurrences.js' && git push
+chmod u+x 7-occurrences.js && git add --chmod=+x 7-occurrences.js && git commit -m 'Task 07 a function that returns the reversed version of a list: 7-occurrences.js' && git push
 
 touch 7-occurrences.js && git add . && git commit -m 7-occurrences.js
 
