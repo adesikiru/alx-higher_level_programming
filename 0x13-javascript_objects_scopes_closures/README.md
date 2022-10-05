@@ -9,9 +9,9 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 && git push
 
-chmod u+x 7-occurrences.js && git add --chmod=+x 7-occurrences.js && git commit -m 'Task 08 a function that returns the reversed version of a list: 7-occurrences.js' && git push
+chmod u+x 8-esrever.js && git add --chmod=+x 8-esrever.js && git commit -m 'Task 08 a function that returns the reversed version of a list: 8-esrever.js' && git push
 
-touch 7-occurrences.js && git add . && git commit -m 7-occurrences.js
+touch 8-esrever.js && git add . && git commit -m 8-esrever.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
