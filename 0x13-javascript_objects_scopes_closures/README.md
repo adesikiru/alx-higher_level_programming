@@ -9,7 +9,7 @@ chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m '
 
 && git push
 
-chmod u+x 10-converter.js && git add --chmod=+x 10-converter.js && git commit -m 'Task 08 a function that returns the reversed version of a list: 10-converter.js' && git push
+chmod u+x 10-converter.js && git add --chmod=+x 10-converter.js && git commit -m 'Task 10 a function that returns the reversed version of a list: 10-converter.js' && git push
 
 touch 10-converter.js && git add . && git commit -m 10-converter.js
 
