@@ -5,13 +5,13 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'header file print_dlistint.c' && git push
 
-chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m 'Advanced Task 101 N queens 101-nqueens.py'
+chmod u+x 101-nqueens.py && git add --chmod=+x 101-nqueens.py && git commit -m 'Advanced Task 100 N queens 101-nqueens.py'
 
 && git push
 
-chmod u+x 100-map.js && git add --chmod=+x 100-map.js && git commit -m 'Task 09 a function that prints the number of arguments already printed and the new argument value. 100-map.js' && git push
+chmod u+x 9-logme.js && git add --chmod=+x 9-logme.js && git commit -m 'Task 09 a function that prints the number of arguments already printed and the new argument value. 9-logme.js' && git push
 
-touch 100-map.js && git add . && git commit -m 100-map.js
+touch 9-logme.js && git add . && git commit -m 9-logme.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
