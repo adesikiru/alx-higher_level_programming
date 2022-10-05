@@ -11,7 +11,8 @@ chmod u+x 100-map.js && git add --chmod=+x 100-map.js && git commit -m 'Advanced
 
 chmod u+x 9-logme.js && git add --chmod=+x 9-logme.js && git commit -m 'Task 09 a function that prints the number of arguments already printed and the new argument value. 9-logme.js' && git push
 
-touch 9-logme.js && git add . && git commit -m 9-logme.js
+touch 100-map.js && git add . && git commit -m 100-map.js
+
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
