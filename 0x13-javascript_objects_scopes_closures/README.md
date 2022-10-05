@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'header file print_dlistint.c' && git push
 
-chmod u+x 100-map.js && git add --chmod=+x 100-map.js && git commit -m 'Advanced Task 100 N queens 100-map.js'
+chmod u+x 100-map.js && git add --chmod=+x 100-map.js && git commit -m 'Advanced Task 100 a script that imports an array and computes a new array. 100-map.js'
 
 && git push
 
