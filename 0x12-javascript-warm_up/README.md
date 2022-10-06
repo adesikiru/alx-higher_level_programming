@@ -7,7 +7,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-concat.js && git add --chmod=+x 102-concat.js && git commit -m 'Advanced Task 102 a script that concats 2 files. 102-concat.js' && git push
 
-chmod u+x 3-value_argument.js && git add --chmod=+x 3-value_argument.js && git commit -m 'Task 03  a script that prints the first argument passed to it: 3-value_argument.js' && git push
+chmod u+x 3-value_argument.js && git add --chmod=+x 3-value_argument.js && git commit -m 'Task 03 a script that prints two arguments passed to it, in the following format: “ is ” 3-value_argument.js' && git push
 
 touch 3-value_argument.js && git add . && git commit -m 3-value_argument.js
 
