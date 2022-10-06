@@ -7,7 +7,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-concat.js && git add --chmod=+x 102-concat.js && git commit -m 'Advanced Task 102 a script that concats 2 files. 102-concat.js' && git push
 
-chmod u+x 7-multi_c.js && git add --chmod=+x 7-multi_c.js && git commit -m 'Task 07 a script that prints x times “C is fun” 7-multi_c.js' && git push
+chmod u+x 7-multi_c.js && git add --chmod=+x 7-multi_c.js && git commit -m 'Task 07  a script that prints a square 7-multi_c.js' && git push
 
 touch 7-multi_c.js && git add . && git commit -m 7-multi_c.js
 
