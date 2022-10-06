@@ -7,9 +7,9 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-concat.js && git add --chmod=+x 102-concat.js && git commit -m 'Advanced Task 102 a script that concats 2 files. 102-concat.js' && git push
 
-chmod u+x 0-javascript_is_amazing.js && git add --chmod=+x 0-javascript_is_amazing.js && git commit -m 'Task 00 a script that prints “JavaScript is amazing”: 0-javascript_is_amazing.js' && git push
+chmod u+x 1-multi_languages.js && git add --chmod=+x 1-multi_languages.js && git commit -m 'Task 00 a script that prints “JavaScript is amazing”: 1-multi_languages.js' && git push
 
-touch 0-javascript_is_amazing.js && git add . && git commit -m 0-javascript_is_amazing.js
+touch 1-multi_languages.js && git add . && git commit -m 1-multi_languages.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
