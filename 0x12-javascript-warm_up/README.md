@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'header file print_dlistint.c' && git push
 
-chmod u+x 101-call_me_moby.js && git add --chmod=+x 101-call_me_moby.js && git commit -m 'Advanced Task 100 a file that modifies the value of myVar to 333 101-call_me_moby.js' && git push
+chmod u+x 101-call_me_moby.js && git add --chmod=+x 101-call_me_moby.js && git commit -m 'Advanced Task 101 a file that modifies the value of myVar to 333 101-call_me_moby.js' && git push
 
 chmod u+x 13-add.js && git add --chmod=+x 13-add.js && git commit -m 'Task 13 a file that modifies the value of myVar to 333 13-add.js' && git push
 
