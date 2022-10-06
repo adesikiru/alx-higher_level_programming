@@ -9,7 +9,7 @@ chmod u+x 100-let_me_const.js && git add --chmod=+x 100-let_me_const.js && git c
 
 chmod u+x 13-add.js && git add --chmod=+x 13-add.js && git commit -m 'Task 13 a file that modifies the value of myVar to 333 13-add.js' && git push
 
-touch 13-add.js && git add . && git commit -m 13-add.js
+touch 100-let_me_const.js && git add . && git commit -m 100-let_me_const.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
