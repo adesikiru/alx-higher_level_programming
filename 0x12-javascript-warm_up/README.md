@@ -9,7 +9,7 @@ chmod u+x 102-concat.js && git add --chmod=+x 102-concat.js && git commit -m 'Ad
 
 chmod u+x 0-javascript_is_amazing.js && git add --chmod=+x 0-javascript_is_amazing.js && git commit -m 'Task 00 a script that prints “JavaScript is amazing”: 0-javascript_is_amazing.js' && git push
 
-touch 102-concat.js && git add . && git commit -m 102-concat.js
+touch 0-javascript_is_amazing.js && git add . && git commit -m 0-javascript_is_amazing.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
