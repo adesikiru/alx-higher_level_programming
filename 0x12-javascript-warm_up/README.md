@@ -7,7 +7,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-concat.js && git add --chmod=+x 102-concat.js && git commit -m 'Advanced Task 102 a script that concats 2 files. 102-concat.js' && git push
 
-chmod u+x 12-object.js && git add --chmod=+x 12-object.js && git commit -m 'Task 12 a script that searches the second biggest integer in the list of arguments. 12-object.js' && git push
+chmod u+x 12-object.js && git add --chmod=+x 12-object.js && git commit -m 'Task 12 Update this script to replace the value 12 with 89: 12-object.js' && git push
 
 touch 12-object.js && git add . && git commit -m 12-object.js
 
