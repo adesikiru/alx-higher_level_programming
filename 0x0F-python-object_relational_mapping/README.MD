@@ -8,7 +8,8 @@ chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commi
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'Task 00  a script that lists all states from the database hbtn_0e_0_usa: relationship_state.py' && git push
 
-touch relationship_state.py && git add . && git commit -m relationship_state.py
+touch relationship_state.py && git add . && git commit -m 1-filter_states.py
+
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
