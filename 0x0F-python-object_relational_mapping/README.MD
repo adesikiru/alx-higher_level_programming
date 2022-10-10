@@ -6,9 +6,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commit -m 'Advanced Task 103 adding a new function incr that increments the integer value. 103-object_fct.js' && git push
 
-chmod u+x 1-filter_states.py && git add --chmod=+x 1-filter_states.py && git commit -m 'Task 01 a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa: 1-filter_states.py' && git push
+chmod u+x 2-my_filter_states.py && git add --chmod=+x 2-my_filter_states.py && git commit -m 'Task 01 a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa: 2-my_filter_states.py' && git push
 
-touch 1-filter_states.py && git add . && git commit -m 1-filter_states.py
+touch 2-my_filter_states.py && git add . && git commit -m 2-my_filter_states.py
 
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
