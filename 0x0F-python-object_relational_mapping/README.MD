@@ -6,9 +6,9 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commit -m 'Advanced Task 103 adding a new function incr that increments the integer value. 103-object_fct.js' && git push
 
-chmod u+x 0-select_states.py && git add --chmod=+x 0-select_states.py && git commit -m 'Task 00  a script that lists all states from the database hbtn_0e_0_usa: 0-select_states.py' && git push
+chmod u+x model_city.py && git add --chmod=+x model_city.py && git commit -m 'Task 00  a script that lists all states from the database hbtn_0e_0_usa: model_city.py' && git push
 
-touch 0-select_states.py && git add . && git commit -m 0-select_states.py
+touch model_city.py && git add . && git commit -m model_city.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
