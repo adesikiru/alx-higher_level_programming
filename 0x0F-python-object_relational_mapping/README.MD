@@ -6,7 +6,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commit -m 'Advanced Task 103 adding a new function incr that increments the integer value. 103-object_fct.js' && git push
 
-chmod u+x 7-model_state_fetch_all.py && git add --chmod=+x 7-model_state_fetch_all.py && git commit -m 'Task 05 a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa 7-model_state_fetch_all.py' && git push
+chmod u+x 7-model_state_fetch_all.py && git add --chmod=+x 7-model_state_fetch_all.py && git commit -m 'Task 07 a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa 7-model_state_fetch_all.py' && git push
 
 touch 7-model_state_fetch_all.py && git add . && git commit -m 7-model_state_fetch_all.py
 
