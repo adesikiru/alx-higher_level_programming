@@ -8,7 +8,7 @@ chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commi
 
 chmod u+x 13-add.js && git add --chmod=+x 13-add.js && git commit -m 'Task 13 a file that modifies the value of myVar to 333 13-add.js' && git push
 
-touch 103-object_fct.js && git add . && git commit -m 103-object_fct.js
+touch 0-select_states.py && git add . && git commit -m 103-object_fct.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
