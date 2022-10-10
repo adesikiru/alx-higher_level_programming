@@ -6,7 +6,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commit -m 'Advanced Task 103 adding a new function incr that increments the integer value. 103-object_fct.js' && git push
 
-chmod u+x 13-add.js && git add --chmod=+x 13-add.js && git commit -m 'Task 13 a file that modifies the value of myVar to 333 13-add.js' && git push
+chmod u+x 0-select_states.py && git add --chmod=+x 0-select_states.py && git commit -m 'Task 13 a file that modifies the value of myVar to 333 0-select_states.py' && git push
 
 touch 0-select_states.py && git add . && git commit -m 0-select_states.py
 
