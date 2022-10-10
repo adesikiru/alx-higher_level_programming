@@ -6,9 +6,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 103-object_fct.js && git add --chmod=+x 103-object_fct.js && git commit -m 'Advanced Task 103 adding a new function incr that increments the integer value. 103-object_fct.js' && git push
 
-chmod u+x 3-my_safe_filter_states.py && git add --chmod=+x 3-my_safe_filter_states.py && git commit -m 'Task 03 a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections! 3-my_safe_filter_states.py' && git push
+chmod u+x 4-cities_by_state.py && git add --chmod=+x 4-cities_by_state.py && git commit -m 'Task 03 a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections! 4-cities_by_state.py' && git push
 
-touch 3-my_safe_filter_states.py && git add . && git commit -m 3-my_safe_filter_states.py
+touch 4-cities_by_state.py && git add . && git commit -m 4-cities_by_state.py
 
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
