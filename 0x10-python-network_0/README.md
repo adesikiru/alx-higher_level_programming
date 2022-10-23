@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
 
-chmod u+x 6-peak.py && git add --chmod=+x 6-peak.py && git commit -m 'Task 06 a function that finds a peak in a list of unsorted integers. 6-peak.py' && git push
+chmod u+x 6-peak.txt && git add --chmod=+x 6-peak.txt && git commit -m 'Task 06 a function that finds a peak in a list of unsorted integers. 6-peak.txt' && git push
 
-touch 6-peak.py && git add . && git commit -m 6-peak.py
+touch 6-peak.txt && git add . && git commit -m 6-peak.txt
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
