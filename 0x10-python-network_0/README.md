@@ -9,7 +9,7 @@ chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relat
 
 chmod u+x 0-body_size.sh && git add --chmod=+x 0-body_size.sh && git commit -m 'Task 00 a Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response 0-body_size.sh' && git push
 
-touch 102-relationship_cities_states_list.py && git add . && git commit -m 102-relationship_cities_states_list.py
+touch 0-body_size.sh && git add . && git commit -m 0-body_size.sh
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
