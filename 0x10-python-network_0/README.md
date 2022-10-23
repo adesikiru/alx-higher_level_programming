@@ -5,11 +5,11 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. print_dlistint.c' && git push
 
-chmod u+x 100-status_code.sh && git add --chmod=+x 100-status_code.sh && git commit -m 'Advanced Task 100 a script that lists all City objects from the database hbtn_0e_101_usa 100-status_code.sh' && git push
+chmod u+x 101-post_json.sh && git add --chmod=+x 101-post_json.sh && git commit -m 'Advanced Task 100 a script that lists all City objects from the database hbtn_0e_101_usa 101-post_json.sh' && git push
 
 chmod u+x 6-peak.txt && git add --chmod=+x 6-peak.txt && git commit -m 'Task 06 a function that finds a peak in a list of unsorted integers. 6-peak.txt' && git push
 
-touch 100-status_code.sh && git add . && git commit -m 100-status_code.sh
+touch 101-post_json.sh && git add . && git commit -m 101-post_json.sh
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
