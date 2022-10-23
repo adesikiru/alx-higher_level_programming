@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
 
-chmod u+x 4-header.sh && git add --chmod=+x 4-header.sh && git commit -m 'Task 04 a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response. 4-header.sh' && git push
+chmod u+x 5-post_params.sh && git add --chmod=+x 5-post_params.sh && git commit -m 'Task 04 a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response. 5-post_params.sh' && git push
 
-touch 4-header.sh && git add . && git commit -m 4-header.sh
+touch 5-post_params.sh && git add . && git commit -m 5-post_params.sh
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
