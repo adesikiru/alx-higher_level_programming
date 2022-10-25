@@ -17,4 +17,4 @@ chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git com
 
 chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hexa.py' && git push
 
-mkdir 0x10-python-network_0 && cd 0x10-python-network_0 && echo '# 0x10-python-network_0' >> README.md
+mkdir 0x11-python-network_1 && cd 0x11-python-network_1 && echo '# 0x11-python-network_1' >> README.md
