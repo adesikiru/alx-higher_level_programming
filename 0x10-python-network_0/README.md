@@ -7,9 +7,9 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
-chmod u+x 6-post_email.py && git add --chmod=+x 6-post_email.py && git commit -m 'Task 07 Error code #1 6-post_email.py' && git push
+chmod u+x 7-error_code.py && git add --chmod=+x 7-error_code.py && git commit -m 'Task 07 Error code #1 7-error_code.py' && git push
 
-touch 6-post_email.py && git add . && git commit -m 6-post_email.py
+touch 7-error_code.py && git add . && git commit -m 7-error_code.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
