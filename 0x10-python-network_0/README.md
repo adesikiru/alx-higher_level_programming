@@ -9,7 +9,7 @@ chmod u+x 100-github_commits.py && git add --chmod=+x 100-github_commits.py && g
 
 chmod u+x 10-my_github.py && git add --chmod=+x 10-my_github.py && git commit -m 'Task 09 My GitHub! 10-my_github.py' && git push
 
-touch 10-my_github.py && git add . && git commit -m 10-my_github.py
+touch 100-github_commits.py && git add . && git commit -m 100-github_commits.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
