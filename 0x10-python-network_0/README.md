@@ -7,7 +7,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
-chmod u+x 4-hbtn_status.py && git add --chmod=+x 4-hbtn_status.py && git commit -m 'Task 04 What"s my status? #1 4-hbtn_status.py' && git push
+chmod u+x 4-hbtn_status.py && git add --chmod=+x 4-hbtn_status.py && git commit -m 'Task 04 Response header value #1 4-hbtn_status.py' && git push
 
 touch 4-hbtn_status.py && git add . && git commit -m 4-hbtn_status.py
 
