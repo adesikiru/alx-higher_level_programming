@@ -9,7 +9,7 @@ chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m
 
 chmod u+x 6-peak.txt && git add --chmod=+x 6-peak.txt && git commit -m 'Task 06 a function that finds a peak in a list of unsorted integers. 6-peak.txt' && git push
 
-touch 102-catch_me.sh && git add . && git commit -m 102-catch_me.sh
+touch 0-hbtn_status.py && git add . && git commit -m 0-hbtn_status.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
