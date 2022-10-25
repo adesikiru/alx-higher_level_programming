@@ -7,9 +7,9 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
-chmod u+x 8-json_api.py && git add --chmod=+x 8-json_api.py && git commit -m 'Task 08 Search API 8-json_api.py' && git push
+chmod u+x 10-my_github.py && git add --chmod=+x 10-my_github.py && git commit -m 'Task 08 Search API 10-my_github.py' && git push
 
-touch 8-json_api.py && git add . && git commit -m 8-json_api.py
+touch 10-my_github.py && git add . && git commit -m 10-my_github.py
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
