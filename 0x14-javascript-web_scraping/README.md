@@ -11,7 +11,7 @@ chmod u+x 100-github_commits.py && git add --chmod=+x 100-github_commits.py && g
 
 chmod u+x 0-readme.js && git add --chmod=+x 0-readme.js && git commit -m 'Task 00 0-readme.js' && git push
 
-touch 100-github_commits.py && git add . && git commit -m 100-github_commits.py
+touch 0-readme.js && git add . && git commit -m 0-readme.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
