@@ -17,4 +17,4 @@ chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git com
 
 chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hexa.py' && git push
 
-mkdir 0x11-python-network_1 && cd 0x11-python-network_1 && echo '# 0x11-python-network_1' >> README.md
+mkdir 0x14-javascript-web_scraping && cd 0x14-javascript-web_scraping && echo '# 0x14-javascript-web_scraping' >> README.md
