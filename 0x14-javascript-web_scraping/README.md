@@ -7,11 +7,11 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. print_dlistint.c' && git push
 
-chmod u+x 103-script.js && git add --chmod=+x 103-script.js && git commit -m 'Advanced Task 103 103-script.js' && git push
+chmod u+x 102-script.js && git add --chmod=+x 102-script.js && git commit -m 'Advanced Task 103 102-script.js' && git push
 
 chmod u+x 6-completed_tasks.js && git add --chmod=+x 6-completed_tasks.js && git commit -m 'Task 06 6-completed_tasks.js' && git push
 
-touch 103-script.js && git add . && git commit -m 103-script.js
+touch 102-script.js && git add . && git commit -m 102-script.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
