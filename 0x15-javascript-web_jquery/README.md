@@ -8,7 +8,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 101-script.js && git add --chmod=+x 101-script.js && git commit -m 'Advanced Task 100 101-script.js' && git push
 
-chmod u+x 8-script.js && git add --chmod=+x 8-script.js && git commit -m 'Task 07 8-script.js' && git push
+chmod u+x 8-script.js && git add --chmod=+x 8-script.js && git commit -m 'Task 08 8-script.js' && git push
 
 touch 8-script.js && git add . && git commit -m 8-script.js
 
