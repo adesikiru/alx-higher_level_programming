@@ -10,7 +10,7 @@ chmod u+x 100-script.js && git add --chmod=+x 100-script.js && git commit -m 'Ad
 
 chmod u+x 6-completed_tasks.js && git add --chmod=+x 6-completed_tasks.js && git commit -m 'Task 06 6-completed_tasks.js' && git push
 
-touch 100-script.js && git add . && git commit -m 0-script.js
+touch 0-script.js && git add . && git commit -m 0-script.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
