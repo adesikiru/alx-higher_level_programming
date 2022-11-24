@@ -1,4 +1,4 @@
-# 0x14-javascript-web_scraping
+# 0x15-javascript-web_jquery
 
 
 chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a function in C that checks if a singly linked list has a cycle in it. 10-check_cycle.c' && git push# 0x07-python-test_driven_development
@@ -19,4 +19,4 @@ chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git com
 
 chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hexa.py' && git push
 
-mkdir 0x14-javascript-web_scraping && cd 0x14-javascript-web_scraping && echo '# 0x14-javascript-web_scraping' >> README.md
+mkdir 0x15-javascript-web_jquery && cd 0x15-javascript-web_jquery && echo '# 0x15-javascript-web_jquery' >> README.md
