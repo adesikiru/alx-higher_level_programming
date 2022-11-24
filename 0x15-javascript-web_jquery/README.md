@@ -8,9 +8,9 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 101-script.js && git add --chmod=+x 101-script.js && git commit -m 'Advanced Task 100 101-script.js' && git push
 
-chmod u+x 5-script.js && git add --chmod=+x 5-script.js && git commit -m 'Task 05 5-script.js' && git push
+chmod u+x 6-script.js && git add --chmod=+x 6-script.js && git commit -m 'Task 05 6-script.js' && git push
 
-touch 5-script.js && git add . && git commit -m 5-script.js
+touch 6-script.js && git add . && git commit -m 6-script.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
