@@ -1,1 +1,3 @@
-# 0x12-javascript-warm_up
+# Tasks on JavaScript - Warm up
+
+---

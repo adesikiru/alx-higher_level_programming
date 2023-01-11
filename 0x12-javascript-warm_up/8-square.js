@@ -1,11 +1,14 @@
 #!/usr/bin/node
-if (process.argv[2] === undefined || isNaN(process.argv[2])) {
+
+const argChecker = Number.parseInt(process.argv[2]);
+const word = 'X';
+
+if (Number.isNaN(argChecker) || argChecker === undefined) {
   console.log('Missing size');
 } else {
-  const x = Number(process.argv[2]);
   let i = 0;
-  while (i < x) {
-    console.log('X'.repeat(x));
+  while (i < argChecker) {
+    console.log(word.repeat(argChecker));
     i++;
   }
 }

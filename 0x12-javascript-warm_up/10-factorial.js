@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 function factorial (n) {
   if (n < 0) {
     return (-1);
@@ -8,5 +9,5 @@ function factorial (n) {
   }
   return (n * factorial(n - 1));
 }
-
-console.log(factorial(Number(process.argv[2])));
+const argsChecker1 = Number.parseInt(process.argv[2]);
+console.log(factorial(argsChecker1));
