@@ -1,1 +1,3 @@
-# 0x13-javascript_objects_scopes_closures
+# Tasks on JavaScript - Objects, Scopes and Closures
+
+---
